@@ -3,7 +3,6 @@ export default class ConexionApi {
     this.user = null;
     this.pass = null;
     // this.url = "http://190.192.35.48/itop/webservices/rest.php"
-    // this.url = "https://capp.santafe.gob.ar/itop/webservices/rest.php"
     this.url = "http://10.100.4.173/itop/webservices/rest.php"
     console.log("make api conection");
   }
