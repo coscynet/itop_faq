@@ -36,7 +36,7 @@
         <reconciliation>
           <attributes>
             <attribute id="org_id"/>
-            <attribute id="faq_ido"/>
+            <attribute id="faq_id"/>
           </attributes>
         </reconciliation>
       </properties>
